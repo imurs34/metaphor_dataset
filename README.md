@@ -1,8 +1,10 @@
 # Extended Metaphor Dataset
 
-<img src="https://github.com/imurs34/metaphor_dataset/blob/main/extended_metaphor_diagram.png" alt="Extended Metaphor Diagram" title="Extended Metaphor Diagram">
+<!-- <img src="https://github.com/imurs34/metaphor_dataset/blob/main/extended_metaphor_diagram.png" alt="Extended Metaphor Diagram" title="Extended Metaphor Diagram">
 
-<img src="https://anonymous.4open.science/r/metaphor_dataset-8854/extended_metaphor_diagram.png" alt="Extended Metaphor Diagram" title="Extended Metaphor Diagram">
+<img src="https://anonymous.4open.science/r/metaphor_dataset-8854/extended_metaphor_diagram.png" alt="Extended Metaphor Diagram" title="Extended Metaphor Diagram"> -->
+
+![Extended Metaphor Diagram](extended_metaphor_diagram.png)
 
 ## Overview
 
