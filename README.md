@@ -1,6 +1,6 @@
 # Extended Metaphor Dataset
 
-![Extended Metaphor Diagram](http://url/to/img.png)
+<img src="https://github.com/imurs34/metaphor_dataset/blob/main/extended_metaphor_diagram.png" alt="Extended Metaphor Diagram" title="Extended Metaphor Diagram">
 
 ## Overview
 
