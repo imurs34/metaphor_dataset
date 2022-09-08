@@ -2,6 +2,8 @@
 
 <img src="https://github.com/imurs34/metaphor_dataset/blob/main/extended_metaphor_diagram.png" alt="Extended Metaphor Diagram" title="Extended Metaphor Diagram">
 
+<img src="https://anonymous.4open.science/r/metaphor_dataset-8854/extended_metaphor_diagram.png" alt="Extended Metaphor Diagram" title="Extended Metaphor Diagram">
+
 ## Overview
 
 We introduce a dataset of extended metaphors for science writing. It contains 600 extended metaphors that consist of 4,255 simple metaphors. The metaphors span six scientific domains, three levels of difficulty, and four transformer models. The details are like the below.
